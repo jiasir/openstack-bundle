@@ -12,5 +12,5 @@ All of the OpenStack components using lxc isolated. The OpenStack version is Ice
 * `block-device` is the swift storage location or cinder backend location.
 * `zone-assignment` is a swift zone assignment.
 * Acording to this `network-manager` setting, you can decide what the network driver for your enterprise.
-* Attention to the series is trusty.
+* Attention to the series are trusty.
 * Only import the bundle to your juju environment that is worked.
