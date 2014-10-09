@@ -1,7 +1,7 @@
 openstack-bundle
 ================
 
-A bundle for deploy an IaaS. You can deploy OpenStack in an MAAS+Juju environment as a easiest way.
+A bundle for deploy an IaaS. You can deploy OpenStack in the MAAS+Juju environment as an easiest way.
 
 ### Overview
 All of the OpenStack components using lxc isolated. The OpenStack version is IceHouse.
